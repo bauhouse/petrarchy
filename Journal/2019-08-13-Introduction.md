@@ -1,5 +1,7 @@
 # Introduction
 
+## Tuesday, 13 August 2019
+
 Every 500 years, there is a rummage sale. You might expect that the proceeds of
 the sale should go to the poor. In Petrarch, that is not how the system works.
 
